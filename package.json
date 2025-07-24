@@ -1,12 +1,13 @@
 {
-  "name": "01-heloword",
-  "version": "1.0clear0",
-  "main": "hello.js",
+  "name": "meu-projeto",
+  "version": "0.0.1",
+  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "abnadab": "echo \"olá mundo\" && exit 1"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "my first project"
 }
